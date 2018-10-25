@@ -1,2 +1,3 @@
-# codingground
-Main Repository for Coding Ground
+# Java Snippets
+
+* Baro Altitude calc
